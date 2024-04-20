@@ -5,6 +5,7 @@ A server for handling Slack Event Subscriptions. It communicates with the ChatGP
 
 ## Prerequisite
 - Docker
+- 
 
 Before running the application, make sure that Docker is installed and running on your system.
 
